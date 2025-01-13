@@ -1,0 +1,2 @@
+# Hack-fo-Humanity_A.I.-Literacy
+The A.I. Literacy website will provide instructions for learning the basics of A.I., developing prompts, types of A.I., and how to use different types of A.I. Learning this skillset will allow people to understand the technology and how to implement it in every aspect of their lives in order to not get left behind during the next tech boom. 
